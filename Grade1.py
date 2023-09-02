@@ -1,5 +1,4 @@
 a=float(input("enter your marks of Maths :"))
-
 b=float(input("enter your marks of Computer :"))
 
 c=float(input("enter your marks of English :"))
